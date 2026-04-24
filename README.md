@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🖥️ Mi Servidor
 
-<!--
-**hacheserver/hacheserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositorio personal con configuraciones, scripts y recursos para la gestión de mi servidor.
 
-Here are some ideas to get you started:
+## Contenido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Scripts de configuración y automatización
+- Archivos de configuración del sistema
+- Notas y documentación de uso personal
+
+## Notas
+
+Repositorio de uso personal. El contenido puede cambiar sin previo aviso.
