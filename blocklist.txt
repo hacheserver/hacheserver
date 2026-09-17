@@ -154,6 +154,35 @@
 0.0.0.0 www-prod.adobesunbreak.com
 0.0.0.0 www.adobe.com
 0.0.0.0 www.adobe.com
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+ad.doubleclick.net
+adclick.g.doubleclick.net
+cm.g.doubleclick.net
+stats.g.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+pagead.l.doubleclick.net
+tagmanager.google.com
+dai.google.com
+eu.posthog.com
+us.i.posthog.com
+rudderstack.com
+bnc.lt
+connect.facebook.net
+graph.facebook.com
+graph.instagram.com
+i.instagram.com
+widgets.pinterest.com
+click.mailchimp.com
+ngfts.lge.com
+settings-win.data.microsoft.com
+xp.apple.com
+clientstream.launchdarkly.com
 0.0.0.0 www.adobeexchange.com
 0.0.0.0 www.adobeexchange.com
 0.0.0.0 www.adobetag.com
