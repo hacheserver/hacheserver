@@ -154,37 +154,49 @@
 0.0.0.0 www-prod.adobesunbreak.com
 0.0.0.0 www.adobe.com
 0.0.0.0 www.adobe.com
-pagead2.googlesyndication.com
-googleads.g.doubleclick.net
-googleads4.g.doubleclick.net
-ad.doubleclick.net
-adclick.g.doubleclick.net
-cm.g.doubleclick.net
-stats.g.doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-mediavisor.doubleclick.net
-pubads.g.doubleclick.net
-securepubads.g.doubleclick.net
-pagead.l.doubleclick.net
-tagmanager.google.com
-dai.google.com
-eu.posthog.com
-us.i.posthog.com
-rudderstack.com
-bnc.lt
-connect.facebook.net
-graph.facebook.com
-graph.instagram.com
-i.instagram.com
-widgets.pinterest.com
-click.mailchimp.com
-ngfts.lge.com
-settings-win.data.microsoft.com
-xp.apple.com
-clientstream.launchdarkly.com
 0.0.0.0 www.adobeexchange.com
 0.0.0.0 www.adobeexchange.com
 0.0.0.0 www.adobetag.com
 0.0.0.0 wwwimages.adobe.com
 0.0.0.0 wwwimages2.adobe.com
+
+# --- Google Ads / DoubleClick ---
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 tagmanager.google.com
+0.0.0.0 dai.google.com
+ 
+# --- Analytics / Trackers ---
+0.0.0.0 eu.posthog.com
+0.0.0.0 us.i.posthog.com
+0.0.0.0 rudderstack.com
+0.0.0.0 bnc.lt
+0.0.0.0 clientstream.launchdarkly.com
+ 
+# --- Meta / Instagram ---
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i.instagram.com
+ 
+# --- Otras redes sociales ---
+0.0.0.0 widgets.pinterest.com
+ 
+# --- Email marketing ---
+0.0.0.0 click.mailchimp.com
+ 
+# --- Telemetria de dispositivos/OS ---
+0.0.0.0 ngfts.lge.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 xp.apple.com
